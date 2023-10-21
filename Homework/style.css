@@ -1,0 +1,13 @@
+.banner {
+    background: url("images/earth_horizon_milky_way_4k.jpg")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+@media (max-width: 576px) {
+    .container{
+        background-color: navy;
+    }
+}
